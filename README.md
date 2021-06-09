@@ -80,6 +80,7 @@ then after the system will save those date and assume that the christians starte
 the admin will press the button called update then the form will come after the admin will change the status from active to disactive after the system 
 
 how can other use start using the system?
+==========================================
 Easy!
 The user who want to user the system have to pay us(liliane and raphaela) as the reward of the developers
 And they can also install the servers in their computers  and also 
